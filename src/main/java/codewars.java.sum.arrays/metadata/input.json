@@ -1,0 +1,30 @@
+{
+  "success" : true,
+  "languageName" : "java",
+  "label" : "Java",
+  "solutionId" : "66abbbe5c427c1719736da04",
+  "icon" : "java",
+  "setup" : "public class SumArray {\n\n  public static double sum(double[] numbers) {\n    return 0.0;\n  }\n}",
+  "exampleFixture" : "import org.junit.Test;\nimport static org.junit.Assert.assertEquals;\n\npublic class SumArrayTest {\n\n  @Test\n  public void testSum() {\n    assertEquals(0,      SumArray.sum(new double[] { }),                1e-4);\n    assertEquals(-2.398, SumArray.sum(new double[] {-2.398}),           1e-4);\n    assertEquals(6,      SumArray.sum(new double[] {1, 2, 3}),          1e-4);\n    assertEquals(6.6,    SumArray.sum(new double[] {1.1, 2.2, 3.3}),    1e-4);\n    assertEquals(9.2,    SumArray.sum(new double[] {1, 5.2, 4, 0, -1}), 1e-4);\n    assertEquals(320,    SumArray.sum(new double[] {30, 89, 100, 101}), 1e-4);\n  }\n}",
+  "workingCode" : null,
+  "workingFixture" : null,
+  "recentlyAttempted" : null,
+  "activeVersion" : "17",
+  "languageVersions" : [ {
+    "id" : "1.8.x",
+    "label" : "8",
+    "supported" : true
+  }, {
+    "id" : "11",
+    "label" : "11",
+    "supported" : true
+  }, {
+    "id" : "17",
+    "label" : "17",
+    "supported" : true
+  } ],
+  "testFramework" : "junit",
+  "path" : "/projects/66abbbe4320acee1c851590a/",
+  "fixture" : "SYUgdX0v/id7x65ELG/LYMFyh336xphqpJASy+T2Sy5JOzcJc5pSu8Y22N44\nf/82BxNPb+zBgXcXb4UutzEt90tT3u4G9P6G1I0r5cuyEhQXrD2zUMejqeyx\ndkT8WmkeUhzzvQyF8XHhfj9BGbcxomg+k/g7KF2ml+jwxdhtxKzHHgFjANMb\n5dUupurn2e2h8O0suAPo3YY7CGRdhgL1ce5pdyxWLeUywgb5lJ3NwGgLJxw6\nK0NeyFHOoOWfUj9kjSgRDG0tgiRDyLVRtk7NNQw/cp9Rg3eVgUuxhejGpbYW\n6P8Vlrz7h7tJe6DYdAHGJHyzLEx6SfEL1zWQWL8Cv7nyz6kXc2qcjNo1+MT4\nGCbyFoguxb5uRQlyTanbD7VDAzizYoo4w8iM7AphrprxD67nbIOyfeHmJF1o\nZSO74kDQPMTGAg55R9c2cvDLCaWaWwIN/fXRuhPRJyjvJNSIEk0IWzDBTn/c\nqAQUH0Pe4TyHetw9BFK6cXfPq5Qzw4SgiT/RFQEFynFv126ss4vRNiU7Ho3D\n1yBYtef95f6MK9+v1mjCDGEYkkTz/HrxvdnEoByf0MwwhMDXa99mY8H75Hg0\noZrljD9/Qxp9heMHDloDHG68hML/wGablVkBerpiFGECaUfHnW2qyHCoVCLx\n0FrMy2OaO5lTkIROEeUIi/NqZU3MaPOp/DM5u23Wka1CaO6EFmitD2Dt0vMk\nOtQ+Snj3u27wa6491S2MrK7XAa7MGKKLh3Ifv6s5X2JmONxgSOEKED/TrAma\n7C93ei/CwXCSXKq9XtfWWNhAPABMP0oFYd41Akd9z3HJumSgWA/aNMjo/45s\ny3SUgC6lC/KDZkt2esrvJU4/EvRLYGeZSD5b1CgUsfMuzSOuvL6SVd1cH6RI\nOyYB0Tenmx4Tjo+W7W3h+wtNGdhnX14dV+1cn7Cn6pcQk38268dSaoMrWaoC\nVh8P4x9+GB7NydyLg8CsoQ6exa2Fx4BJMsKpWUz8RtoOX0tDtxKOeZmeUKHJ\nrSQwwrFu8BIvI+KGUtFZOCsXikCBD9R01X/mvqB1ihGe/8ojVkiNeKFDmddS\nlPtooortObjY6s4v0FJCHHoxqHT2g4goEog8/9oR0xx8N3UCcK8Vha8aFFg0\ntgde5yIk7EEvEZzSZYoFXa5iUy/KZz+/9RtmycIze+FbkVzU7x32NegL6ZNs\ny7FEds0AfL657a2Z3W9Jhyt4vw0pyXLGmRLrK3PnNPf83rZ/m+pEvQKKK+H/\nU3twM6INJt3ce84sVg99V+Gziy1KlC5dfTbvmStLbfSBr7R/HET6lgdrAyLt\nppRg2fjMMkQzAjso7ddIQP4vOEWhDyuL+scet+0/ybiNLvU0/L7q/fKlzhE+\nLDmC6L9+JgyiAaxbgVw0x4buoa3bmIYl9zXhjf0DwXVOivY1itd3Q5Q6ZJsm\npZqp3SeyAAzCs2ul2O4ThTfW12hEsCQ+vahSOs8pA19ZB2xYjletv29yyXWA\nLhtGNpQFmtEIWhi4Nv1OVYVs1rlgw76NHFv6qzluf7T7jKUfPlSD3uezXJtC\nUhuz0Z5e7/1yg5m/Bghs0aO4RkwxtAKbK6ojvbrlmTtOOl4uFEQ/5TKiDfNA\n3WU4BKawq6/sg57CAStLDvkqog16nRbOUNMXH0ET7+/op2lZ4Sgoef0iuYjr\nRC3WY/GGdWFUgzwGxqiUbAAY6AaCVIMtf/HZHqHM6HTNjfJnx776O4S3lMUH\na/YOcq7BwHBz5M+yq1IeQuXlY2HAEsNraMP2ye+YMNcErCPtXmYe6U9plNrD\n+xDdGaQ7gmPu6YqZIEgqOPCsFsbfddFt3QYLhVmO4tdT9Ys8ivi/Gw6v2zws\nDY/tCPu1npwOROXE2DFGBVfHUsoDF04xBbTf0mAlNB4GbXqWC0sCQKN/9BvM\n--NVc8Jy0sYz1F5fiuoR14dw==--u",
+  "package" : ""
+}

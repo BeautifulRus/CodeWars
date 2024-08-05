@@ -1,0 +1,30 @@
+{
+  "success" : true,
+  "languageName" : "java",
+  "label" : "Java",
+  "solutionId" : "66ad61d83da8c71cc8d2f977",
+  "icon" : "java",
+  "setup" : "public class Kata {\n  \n  public static boolean zeroFuel(double distanceToPump, double mpg, double fuelLeft) {\n    // Your code here!\n  }\n  \n}",
+  "exampleFixture" : "import org.junit.Test;\nimport static org.junit.Assert.assertTrue;\nimport static org.junit.Assert.assertFalse;\nimport org.junit.runners.JUnit4;\n\npublic class SolutionTest {\n    @Test\n    public void testSomething() {\n        assertTrue(Kata.zeroFuel(50, 25, 2));\n        assertFalse(Kata.zeroFuel(100, 50, 1));\n    }\n}",
+  "workingCode" : null,
+  "workingFixture" : null,
+  "recentlyAttempted" : null,
+  "activeVersion" : "17",
+  "languageVersions" : [ {
+    "id" : "1.8.x",
+    "label" : "8",
+    "supported" : true
+  }, {
+    "id" : "11",
+    "label" : "11",
+    "supported" : true
+  }, {
+    "id" : "17",
+    "label" : "17",
+    "supported" : true
+  } ],
+  "testFramework" : "junit",
+  "path" : "/projects/66ad61d72ca054c8afd2f8bd/",
+  "fixture" : "qPGmrk7krnqEdhN5FnNnnDHTsxOCwgyVTNYyAwO27e7axNf+gcaSS2CcCMIk\nBqi+c6hgHP9gl6YpWW6ndeCsFDrIvpXeFULTlY1xJIHGzQFOqke5i84Sn5yE\ntUALnI6ArTqO1Sav1gJuA2GKCqWtgtRemTkBnImZmbR1gS/WDedNYsF+UZMQ\nFqM5EyPMFfyzKiDH0pXSiNhn7+L38CVv+fuguY3r9PW728349VskzEj6o+Uh\nJiwSgMr1JLsAzWWapovLG2Ti+fgI3b6uXX+STzsOvo0vft6lYVm8lgkqJiU/\n4crXOVA0oeRx/A8NKaruJ6I/HZVEpW/7H+2VHD4lYvwJ3LduF6MKn+0tffRl\nSggqUA4rkaCl4hvfi0SvVxnG1+OnoVOSP0lEGkJ3BdLq/Yu6L+NZsDGDXzkH\nZr04PLmjU9yMlozwtHCFvC6RnPN5O+h5SqQsa8Rl9LdQmLqnvXGoq1rY+Jce\nGfjMVoskV0eqfkcGrXtNQ0wHaHH+xJ3yfNnLaMsoAfonYhobj5Ls7GvDV3KR\nzKhf3pV3g5a061GTXxjN11bsfQsK+HBRvtMxtbtHZuU/M0UjOp10ZzbtgV9I\nbCkXd0yyjpCN1Ocdgv8CGSgSiew5HOCV66KujpH781AYFh5YQOkNlTnxGEGX\nuOELCUCF0SGbo/QZZpo1K6bdX4OTiwee5L78if6PGz+TNBldiJweDLdQtlwl\nGyv8vbEn2d2fmsUziwbFQ4G0Nnu0G6NkkB/3My5yI8R8+HT6Kk3wZxFFrdDi\npouwOcprNAx3lJGT+85t42T6Q3TwvVPExSQAfOdbdnXvaQ1CQb9qxjezF4jZ\no08HkomcCDxQx6JN9wk4KvntnEPlUl3Ymz1JUvPwhovyYB2SGTxtGH1DK99L\n/aJJK/mtg7gJFcHCT48jmR41lJZc1tgkDFlE2nLFuaLP9qVayRgBVll41C7+\nd/8plMcakjcTm2R8aIY6DqnBiV4DAHhx4RA9Ynz6BeDbYWL6YUJJzaux/h/M\nsbhsmgFTDsPSoPvQ9Horx3dWQQxm339QwsIW/3TR/MVoQuQBqrAmA+qch3DW\n8CJO5aSoaPNcOKwa3zROxiH8l+LLOoB/eUVHvOGVF96bckOiX9QmDRqQK3/7\nlllUi4CpQBd/tTBV5ncFWovcozRuaHYJBWWAwUpTGCkETPP0kiFdA+i9ANfj\n4em4o1AYpOq2Aqt7U5JNx62zVZb0HtSMXbCwj0vEbZgH9S/B8xpfUkw0FIlv\nK/3bh+GwfiqeCsiymo7rZk91dwnntpmbHNoMpBRoeddfpMqG69SSxfSqvHcK\n3pO59rfxXupeBEgDklHL5kq9\n--+cVzMlMmTjuLLlpv9fcoOA==--u",
+  "package" : ""
+}

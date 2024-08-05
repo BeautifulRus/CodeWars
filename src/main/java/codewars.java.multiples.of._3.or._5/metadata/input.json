@@ -1,0 +1,30 @@
+{
+  "success" : true,
+  "languageName" : "java",
+  "label" : "Java",
+  "solutionId" : "66ae470aef5d46a9694ae6c5",
+  "icon" : "java",
+  "setup" : "public class Solution {\n\n  public int solution(int number) {\n    //TODO: Code stuff here\n  }\n}",
+  "exampleFixture" : "import org.junit.Test;\nimport static org.junit.Assert.assertEquals;\n\npublic class SolutionTest {\n    @Test\n    public void test() {\n      assertEquals(23, new Solution().solution(10));\n    }\n    \n}",
+  "workingCode" : null,
+  "workingFixture" : null,
+  "recentlyAttempted" : null,
+  "activeVersion" : "17",
+  "languageVersions" : [ {
+    "id" : "1.8.x",
+    "label" : "8",
+    "supported" : true
+  }, {
+    "id" : "11",
+    "label" : "11",
+    "supported" : true
+  }, {
+    "id" : "17",
+    "label" : "17",
+    "supported" : true
+  } ],
+  "testFramework" : "junit",
+  "path" : "/projects/66ae470936c637b62245712d/",
+  "fixture" : "DetvdIdD4+QQe+9zvQoN2NKmqLqdlvO+sQsXqO7WLHqi8gXQGFI2BXnP+ajJ\nyhu7npFG2KKmd21HGEe0djJ1gtOrDc+86a/UlFCCTGp1ad4GJ1WQ2S5PfFot\nx1qd+TDu8Fz7/LY12goldgrlDdUqdTvK1ihOJ5gF/z3ElkcFe/XocweLz9Yg\nSnS0PQmmOUHSzkl0AcjdyjC+0wRm8pNTTOXfilkCv3fpCCSVuv+dGB8Bvtzu\nGQziBUMPKxNE9/n3lUUOtay7VIeBronwYspn7DxpyuWxENgxUtR+zPORlk4c\nuhPmO/OB5lPpBVHaIbs4h3cXntMKkj6mfUBc9Sjonr5wqqR4gqrMoAFrUFSs\nqRoukpMPtxVKOz5X5nvW6y1QFb12PQdbFFcu0ok8Ti1X1A==\n--QFJ8n0fQ6DTd0fS1OlaQJw==--u",
+  "package" : ""
+}

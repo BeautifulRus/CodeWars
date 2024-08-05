@@ -1,0 +1,30 @@
+{
+  "success" : true,
+  "languageName" : "java",
+  "label" : "Java",
+  "solutionId" : "66abbadbc427c1719736d9f1",
+  "icon" : "java",
+  "setup" : "public class Sid {\n    public static int simpleMultiplication(int n) {\n        //your code here\n        return -1;\n    }\n}",
+  "exampleFixture" : "import org.junit.Test;\nimport static org.junit.Assert.assertEquals;\nimport org.junit.runners.JUnit4;\n\npublic class SolutionTest {\n    @Test\n    public void test1() {\n        System.out.println(\"Checking for Odd numbers.\");\n        assertEquals(9, Sid.simpleMultiplication(1));\n        assertEquals(27, Sid.simpleMultiplication(3));\n        assertEquals(189, Sid.simpleMultiplication(21));\n        assertEquals(207, Sid.simpleMultiplication(23));\n    }\n    \n    @Test\n    public void test2() {\n        System.out.println(\"Checking for Even numbers.\");\n        assertEquals(16, Sid.simpleMultiplication(2));\n        assertEquals(32, Sid.simpleMultiplication(4));\n        assertEquals(176, Sid.simpleMultiplication(22));\n        assertEquals(208, Sid.simpleMultiplication(26));\n    }\n}",
+  "workingCode" : null,
+  "workingFixture" : null,
+  "recentlyAttempted" : null,
+  "activeVersion" : "17",
+  "languageVersions" : [ {
+    "id" : "1.8.x",
+    "label" : "8",
+    "supported" : true
+  }, {
+    "id" : "11",
+    "label" : "11",
+    "supported" : true
+  }, {
+    "id" : "17",
+    "label" : "17",
+    "supported" : true
+  } ],
+  "testFramework" : "junit",
+  "path" : "/projects/66abbada62be31c426489169/",
+  "fixture" : "mL2ump69bIwwEc9OSjs/vj6XC/gzUjlFrvLCnvQPOzFRiVk5o1aQ/JCX6BlF\nPkiIZr/a1DqDEo+bZwu1x2NfYGsS/ax8r4YWNnflJktErjP83QBgVBF3O11F\nUqj8U/m++qadHU5g9j42jBtn3vBeigUot7n2VhoIAIJLuEnAqnO3bm2NWUD9\nkhPCS+IO1HN55d9Bs5fGdFyz23bjejjeheHN6ZepvM9kuoXGAw8/6rMBQHag\nqG4Cy7OBWXiR6+T7G1Rdmb/Ka7qLT+rpTZIUA5ytG2Bddjc9W59QwpE11zof\nlckp+8NYW/BwxbhdxR46xZmZ+ekVu9giHIuHWuGclNul3zcm8k9nAvv4Dbb9\nryLC/Vq2bTI0WipCWwBcRa9GUOdazGX+G5AmvsvuATh7YH99QGIlPlVvmBGP\nPbHSvT4xdX0gr25kZERVVSpqZuMt/Ux1ZFh5QAVtPOWX07T+Z3cNnmypILpV\nPEcOQdED2xJnf2z7ddXlldtx80KCPkCicekuLJjGmZ4RbZqBoP2Wqf1NtzLb\ndEOPWu72RKpMI7cEv6qymbJ1CgWxgJOxo6T106+pDmp7lWobDMaGfQu3vLRZ\nATfIZe6v5GfDcebrRv2kqQuw+MtneIOeq6BDAvucVkbKxN+wBBX907tg/eEJ\nGfp+TxLOs509Phv1pKMn7KJ3niiLcIMFbnzvBOrNq3w/HSRNu0a3biyL0tU+\nWxfs8Yp3RSWyKxDqZmsKx3I2ZqSIKYHZsA5Fd3XaqsitumzAxjzD9nL5hAo+\n0/pp9i3yPPh6LEdPjP/87ggtHLOi3ozC7rcvC2in+f5mo++pVgmPjSEZMTsq\nnIRawOZCyw7cUf6m6nYA7qgr+C2SNRILvo4=\n--1zz33nDYrx0dBPP4zoNgUQ==--u",
+  "package" : ""
+}

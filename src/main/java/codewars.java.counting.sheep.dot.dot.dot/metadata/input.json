@@ -1,0 +1,30 @@
+{
+  "success" : true,
+  "languageName" : "java",
+  "label" : "Java",
+  "solutionId" : "66abd1accf30cb377ddd1105",
+  "icon" : "java",
+  "setup" : "public class Counter {\n  public int countSheeps(Boolean[] arrayOfSheeps) {\n    // TODO May the force be with you\n  }\n}",
+  "exampleFixture" : "import org.junit.Test;\nimport static org.junit.Assert.assertEquals;\nimport org.junit.runners.JUnit4;\n\n\npublic class CounterTest {\n    Boolean[] array1 = {true,  true,  true,  false,\n                      true,  true,  true,  true ,\n                      true,  false, true,  false,\n                      true,  false, false, true ,\n                      true,  true,  true,  true ,\n                      false, false, true,  true };\n\n    @Test\n    public void test() {\n      assertEquals(\"There are 17 sheeps in total\", 17, new Counter().countSheeps(array1));\n    }\n}",
+  "workingCode" : null,
+  "workingFixture" : null,
+  "recentlyAttempted" : null,
+  "activeVersion" : "17",
+  "languageVersions" : [ {
+    "id" : "1.8.x",
+    "label" : "8",
+    "supported" : true
+  }, {
+    "id" : "11",
+    "label" : "11",
+    "supported" : true
+  }, {
+    "id" : "17",
+    "label" : "17",
+    "supported" : true
+  } ],
+  "testFramework" : "junit",
+  "path" : "/projects/66abd1abe4449ec291d23388/",
+  "fixture" : "qk9sKnKqzu9lmYEJylglj5PSTSkOjzm+pilgJKKNm9wmu2f6pz1aaNIo42jf\nRMG/ekI9H0LOc8DkOco9D2sExVT+lj+oDp8hNi0mJyFoVvl62kEw/10bqzkq\nGtF7xfgscRiGO90JR6ng8gQJQ8nHyNYm9NVcfNUMVTVaTQVSbU7Xwuuge+ea\nvcn/XaLXYpb2CdVeX7VsfMO1WIXhES+lTcND+yZpF9+4kkiN6qH+0M7GZnk5\nfB63Y1Yx9jAJjyppsHKce++QqC3DjlI9qzR7dLAUg54Qa5H/z8aj6vuC6Ati\nI74HtdglsatbtQRRWJiYHQJMOk6/vTYC4lC9yR9XfmbsQ/kUAOqm7c5OgQcY\n5GmbnnQZ+tJeFC71VieHW2t+XjZ0DSH6yhDr8ASQ5EDaqfWODsqFo4chhqfU\nB0OimJJkce6sbKUxgI2qM4XRjf5gmJEKb4Zu3sxemXdDmUn0eLpLrZS74E6Q\n1sTQ0WvTXxKkk5ajCIDVBKsnSJb5w2o8tCusA32LCHUSlZ7GMeCV1Lkb2fN1\n1PE7bAt78RUVlk//X2fn112n7bH1kzc8PlGTA81D6GTHv4h+f13PF3uelVyl\nW9/HuUSmDl70nUyY3nU0D2XFayhBOJ+FYDks47VLwf7J+qHpo15D8WcQEo/v\niM3sIIcxNNNJLkp4vXHOgwhrZ8bmKKbIb9ZDT26F14EdkqGEdksipbRi2V+G\n0kfRT9ajIawmyscye6bMxznBRyLJQtgOnWkf54t+asjF5lkWI6N+1XIZMX6a\nwHHFuMsi6/1OYL5l4gjYZolu535OIkkjlH7rAqjjA6P+/AGq/NZ/75AzWv8x\ncNZoVYonRMjVWEpDW2PyzvjLHqKCvw9GjT1wQ5ANI29EEPd/wFUOWZpXvk1S\nhdzlPM7y8DPdKxqH86rF6HybeaACOLyrtPZ/nJjO4+6D/vVmAMzEhGXn5lXr\n0rr2oSZO0g02ipb5xjPnYaP8UpOEQBXbZMRUjKLeNOc87g0CIDGDQSfa1wgU\nKVt800snGnuwzUQJKB+YgvhM7KMu3dnScjruveZL/LMG91NJZ1cGb/g0ULp5\nqUeFc8jUQesuzBx6PsMWrPEivacloX22Y+hxSTok8+1l4wHryxZynEsU09fX\nxv6Q1rPV2N2YUTrI5UTi/9PeU4dkQi6gMkHRN6skvGdmmESruG8JeAYL61+M\np8Aam3nfFPTgwdHtvk19fjzqGAtuutkKgdEvzABrorxQTWBXV79Q7RZlRIMA\ntz4QuWvjsu1f+E14CKrTxljn2EetFVuvlgBbw0zo4Tbo8Q/cSE7pv8yEUaA9\nBpykis3yDqbjSfAScNY7ZT9A+Hbdk4lHs2uQeQSfi1JIdk7MYvaFmINio9Gr\nDXgEIgcToNJ6x6B13pV1zHEzIo508vfR1SzEAnBi7DpuQyGKzQgKeYt/0Tst\nO33kp0MEsRTMFJATMNyeNRt2seX3YkMp5+ndxBsDOA/tE7GwiT0qHOPGilOG\nKZglVsFVpwjVxRmZHXPqQWTRmE5WkDCPPfZb59tVMje2xqY7PKEjAQIO2B3E\nsMMmMDy5iLIPK1iyISi3mp1AawgiEy4FN6VExH8SbLRSys4MB9zUjpsfDSYY\nRc6UgWmp4fI5FHbaaIMl3eYDl3c+kFUYbE1SSb2DIBU6tJIjkEavUGhV4FZE\nOwoxyHGVG1d59KvKnVt3mYn223y4PhDJ02BWICgIhWOTSKDjI29sni2qg1fS\n4Hod2zpD568z3gu0lk/vF5V7gVLqjtg9KQjlj4uRoYuWE+y0ELYbaMFDqNbb\ncOMJEpdVBo7o1QYmVMqj+cKUc3QxgUfnPmvIAKukCOCG3PNDF2NOaBKGSvXl\nwDjO6v/a1oWUYYNgMl2/BzeUAaD4h3iKvoGo2LU=\n--yFe2iU7P0i+pOd929u8yBA==--u",
+  "package" : ""
+}

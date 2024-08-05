@@ -1,0 +1,19 @@
+{
+  "id" : "54ff3102c1bad923760001f3",
+  "name" : "Vowel Count",
+  "slug" : "vowel-count",
+  "url" : "https://www.codewars.com/kata/54ff3102c1bad923760001f3",
+  "category" : "reference",
+  "languages" : [ "java", "javascript", "python", "ruby", "haskell", "csharp", "crystal", "elixir", "php", "typescript", "r", "nasm", "julia", "kotlin", "go", "scala", "cpp", "c", "coffeescript", "rust", "dart", "prolog", "pascal", "perl", "cobol", "fsharp", "ocaml", "lua", "factor", "sql", "riscv", "d" ],
+  "path" : "/projects/66ae9b26b198eda14dae3f19/",
+  "selectedLanguage" : "java",
+  "description" : "Return the number (count) of vowels in the given string. \n\nWe will consider `a`, `e`, `i`, `o`, `u` as vowels for this Kata (but not `y`).\n\nThe input string will only consist of lower case letters and/or spaces.\n",
+  "rank" : {
+    "id" : -7,
+    "name" : "7 kyu",
+    "color" : "white"
+  },
+  "tags" : [ "Strings", "Fundamentals" ],
+  "workUrl" : "https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/java",
+  "completed" : false
+}

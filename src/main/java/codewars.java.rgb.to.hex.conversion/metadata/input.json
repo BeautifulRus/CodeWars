@@ -1,0 +1,30 @@
+{
+  "success" : true,
+  "languageName" : "java",
+  "label" : "Java",
+  "solutionId" : "66aea0764b424e3419b1ae1b",
+  "icon" : "java",
+  "setup" : "public class RgbToHex {\n\n    public static String rgb(int r, int g, int b) {\n        return null;\n    }\n}\n",
+  "exampleFixture" : "import org.junit.Test;\n\nimport static org.junit.Assert.assertEquals;\n\npublic class RgbToHexTest {\n\n    @Test\n    public void sampleTests() {\n        assertEquals(\"For input: (0, 0, 0)\", \"000000\", RgbToHex.rgb(0, 0, 0));\n        assertEquals(\"For input: (1, 2, 3)\", \"010203\", RgbToHex.rgb(1, 2, 3));\n        assertEquals(\"For input: (255, 255, 255)\", \"FFFFFF\", RgbToHex.rgb(255, 255, 255));\n        assertEquals(\"For input: (254, 253, 252)\", \"FEFDFC\", RgbToHex.rgb(254, 253, 252));\n        assertEquals(\"For input: (-20, 275, 125)\", \"00FF7D\", RgbToHex.rgb(-20, 275, 125));\n    }\n}",
+  "workingCode" : null,
+  "workingFixture" : null,
+  "recentlyAttempted" : null,
+  "activeVersion" : "17",
+  "languageVersions" : [ {
+    "id" : "1.8.x",
+    "label" : "8",
+    "supported" : true
+  }, {
+    "id" : "11",
+    "label" : "11",
+    "supported" : true
+  }, {
+    "id" : "17",
+    "label" : "17",
+    "supported" : true
+  } ],
+  "testFramework" : "junit",
+  "path" : "/projects/66aea0758adf413d2eae3f39/",
+  "fixture" : "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\nVdrc444DifWOp3kO3tDuoNeB5A==\n--EVCciYuNIOPEp8cwk3luVA==--u",
+  "package" : ""
+}

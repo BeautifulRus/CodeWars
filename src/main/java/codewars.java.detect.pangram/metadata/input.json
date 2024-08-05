@@ -1,0 +1,30 @@
+{
+  "success" : true,
+  "languageName" : "java",
+  "label" : "Java",
+  "solutionId" : "66ae521736c637b6224571cf",
+  "icon" : "java",
+  "setup" : "public class PangramChecker {\n  public boolean check(String sentence){\n    return false;\n  }\n}",
+  "exampleFixture" : "import org.junit.Test;\nimport static org.junit.Assert.assertEquals;\nimport org.junit.runners.JUnit4;\n\n\npublic class PangramTest {\n    @Test\n    public void test1() {\n      String pangram1 = \"The quick brown fox jumps over the lazy dog.\";\n      PangramChecker pc = new PangramChecker();\n      assertEquals(true, pc.check(pangram1));\n    }\n    @Test\n    public void test2() {\n      String pangram2 = \"You shall not pass!\";\n      PangramChecker pc = new PangramChecker();\n      assertEquals(false, pc.check(pangram2));\n    }\n}",
+  "workingCode" : null,
+  "workingFixture" : null,
+  "recentlyAttempted" : null,
+  "activeVersion" : "17",
+  "languageVersions" : [ {
+    "id" : "1.8.x",
+    "label" : "8",
+    "supported" : true
+  }, {
+    "id" : "11",
+    "label" : "11",
+    "supported" : true
+  }, {
+    "id" : "17",
+    "label" : "17",
+    "supported" : true
+  } ],
+  "testFramework" : "junit",
+  "path" : "/projects/66ae521682de2529a0c8756c/",
+  "fixture" : "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\n--AmPuK2u7D7oXMqQLHV8TdA==--u",
+  "package" : ""
+}

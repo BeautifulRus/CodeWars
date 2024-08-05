@@ -1,0 +1,30 @@
+{
+  "success" : true,
+  "languageName" : "java",
+  "label" : "Java",
+  "solutionId" : "66ab830d25e4671e68b4167f",
+  "icon" : "java",
+  "setup" : "public class Solution {\n    public static String repeatStr(final int repeat, final String string) {\n        return \"\";\n    }\n}\n",
+  "exampleFixture" : "import org.junit.Test;\nimport static org.junit.Assert.assertEquals;\n\npublic class SolutionTest {\n    @Test public void test4a() {\n        assertEquals(\"aaaa\", Solution.repeatStr(4, \"a\"));\n    }\n    @Test public void test3Hello() {\n        assertEquals(\"HelloHelloHello\", Solution.repeatStr(3, \"Hello\"));\n    }\n    @Test public void test5empty() {\n        assertEquals(\"\", Solution.repeatStr(5, \"\"));\n    }\n    @Test public void test0kata() {\n        assertEquals(\"\", Solution.repeatStr(0, \"kata\"));\n    }\n}",
+  "workingCode" : null,
+  "workingFixture" : null,
+  "recentlyAttempted" : null,
+  "activeVersion" : "17",
+  "languageVersions" : [ {
+    "id" : "1.8.x",
+    "label" : "8",
+    "supported" : true
+  }, {
+    "id" : "11",
+    "label" : "11",
+    "supported" : true
+  }, {
+    "id" : "17",
+    "label" : "17",
+    "supported" : true
+  } ],
+  "testFramework" : "junit",
+  "path" : "/projects/66ab830cde9dfa8525515626/",
+  "fixture" : "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\nYcnLK+GE\n--m4xWhJTHXVKFH1CBj+sWjQ==--u",
+  "package" : ""
+}

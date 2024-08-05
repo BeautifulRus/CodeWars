@@ -1,0 +1,19 @@
+{
+  "id" : "5861d28f124b35723e00005e",
+  "name" : "Will you make it?",
+  "slug" : "will-you-make-it",
+  "url" : "https://www.codewars.com/kata/5861d28f124b35723e00005e",
+  "category" : "reference",
+  "languages" : [ "python", "c", "rust", "typescript", "javascript", "csharp", "cpp", "ruby", "java", "julia", "prolog", "cfml", "nasm", "crystal", "coffeescript", "r", "cobol", "php", "sql", "scala", "lua" ],
+  "path" : "/projects/66ad61d72ca054c8afd2f8bd/",
+  "selectedLanguage" : "java",
+  "description" : "You were camping with your friends far away from home, but when it's time to go back, you realize that your fuel is running out and the nearest pump is `50` miles away! You know that on average, your car runs on about `25` miles per gallon. There are `2` gallons left. \n\nConsidering these factors, write a function that tells you if it is possible to get to the pump or not.\n\n```if-not:prolog,nasm,cobol\nFunction should return `true` if it is possible and `false` if not.\n```\n\n```if:prolog,nasm,cobol\nFunction should return `1` if it is possible and `0` if not.\n```\n",
+  "rank" : {
+    "id" : -8,
+    "name" : "8 kyu",
+    "color" : "white"
+  },
+  "tags" : [ "Mathematics", "Fundamentals" ],
+  "workUrl" : "https://www.codewars.com/kata/5861d28f124b35723e00005e/train/java",
+  "completed" : false
+}

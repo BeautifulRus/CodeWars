@@ -1,0 +1,19 @@
+{
+  "id" : "55cbd4ba903825f7970000f5",
+  "name" : "Grasshopper - Grade book",
+  "slug" : "grasshopper-grade-book",
+  "url" : "https://www.codewars.com/kata/55cbd4ba903825f7970000f5",
+  "category" : "reference",
+  "languages" : [ "javascript", "csharp", "python", "coffeescript", "ruby", "haskell", "racket", "php", "typescript", "r", "cpp", "crystal", "elixir", "factor", "dart", "reason", "julia", "java", "go", "prolog", "c", "nasm", "swift", "cobol", "rust" ],
+  "path" : "/projects/66ae31e97013b0409bfafb9e/",
+  "selectedLanguage" : "java",
+  "description" : "## Grade book\n\nComplete the function so that it finds the average of the three scores passed to it and returns the letter value associated with that grade.\n\nNumerical Score    | Letter Grade\n---                | ---\n90 <= score <= 100 | 'A'\n80 <= score < 90   | 'B'\n70 <= score < 80   | 'C'\n60 <= score < 70   | 'D'\n 0 <= score < 60   | 'F'\n\nTested values are all between 0 and 100. Theres is no need to check for negative values or values greater than 100.\n",
+  "rank" : {
+    "id" : -8,
+    "name" : "8 kyu",
+    "color" : "white"
+  },
+  "tags" : [ "Fundamentals" ],
+  "workUrl" : "https://www.codewars.com/kata/55cbd4ba903825f7970000f5/train/java",
+  "completed" : false
+}

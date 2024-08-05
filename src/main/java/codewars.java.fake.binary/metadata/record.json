@@ -1,0 +1,19 @@
+{
+  "id" : "57eae65a4321032ce000002d",
+  "name" : "Fake Binary",
+  "slug" : "fake-binary",
+  "url" : "https://www.codewars.com/kata/57eae65a4321032ce000002d",
+  "category" : "reference",
+  "languages" : [ "javascript", "csharp", "fsharp", "c", "python", "php", "ruby", "haskell", "crystal", "cpp", "java", "nasm", "typescript", "julia", "racket", "swift", "elixir", "clojure", "coffeescript", "r", "cobol", "go", "rust", "sql", "d", "perl", "scala", "lua" ],
+  "path" : "/projects/66abc103c18517fa9f3ab459/",
+  "selectedLanguage" : "java",
+  "description" : "Given a string of digits, you should replace any digit below 5 with '0' and any digit 5 and above with '1'. Return the resulting string.\n\n**Note: input will never be an empty string**\n",
+  "rank" : {
+    "id" : -8,
+    "name" : "8 kyu",
+    "color" : "white"
+  },
+  "tags" : [ "Fundamentals", "Strings", "Arrays" ],
+  "workUrl" : "https://www.codewars.com/kata/57eae65a4321032ce000002d/train/java",
+  "completed" : false
+}

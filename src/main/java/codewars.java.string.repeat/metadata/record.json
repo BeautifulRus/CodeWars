@@ -1,0 +1,19 @@
+{
+  "id" : "57a0e5c372292dd76d000d7e",
+  "name" : "String repeat",
+  "slug" : "string-repeat",
+  "url" : "https://www.codewars.com/kata/57a0e5c372292dd76d000d7e",
+  "category" : "reference",
+  "languages" : [ "haskell", "python", "fsharp", "javascript", "csharp", "php", "clojure", "c", "ruby", "typescript", "crystal", "swift", "java", "coffeescript", "rust", "go", "shell", "lua", "elixir", "solidity", "scala", "nasm", "nim", "julia", "kotlin", "dart", "racket", "reason", "factor", "cpp", "perl", "bf", "cobol", "r", "d", "sql", "ocaml" ],
+  "path" : "/projects/66ab830cde9dfa8525515626/",
+  "selectedLanguage" : "java",
+  "description" : "~~~if:bf\nWrite a program which accepts a single byte `n` and then a sequence of bytes `string` and outputs the `string` exactly `n` times.\n\nThe first input byte will be `n`. Following bytes will be characters of `string`. The end of the input `string` will be indicated with a null byte `\\0`.\n\n### Examples:\n\n\"\\6I\" -> \"IIIIII\"\n\"\\5Hello\" -> \"HelloHelloHelloHelloHello\"\n~~~\n\nWrite a function that accepts an integer `n` and a string `s` as parameters, and returns a string of `s` repeated exactly `n` times.\n\n### Examples (input -> output)\n\n```\n6, \"I\"     -> \"IIIIII\"\n5, \"Hello\" -> \"HelloHelloHelloHelloHello\"\n```\n",
+  "rank" : {
+    "id" : -8,
+    "name" : "8 kyu",
+    "color" : "white"
+  },
+  "tags" : [ "Fundamentals", "Strings" ],
+  "workUrl" : "https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/java",
+  "completed" : false
+}

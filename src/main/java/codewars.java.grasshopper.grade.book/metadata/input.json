@@ -1,0 +1,30 @@
+{
+  "success" : true,
+  "languageName" : "java",
+  "label" : "Java",
+  "solutionId" : "66ae31e9ae9a644114456cf0",
+  "icon" : "java",
+  "setup" : "public class GrassHopper {\n\n    public static char getGrade(int s1, int s2, int s3) {\n\n        return '';\n    }\n}",
+  "exampleFixture" : "import java.util.Random;\nimport static org.junit.Assert.assertEquals;\nimport org.junit.Test;\n\npublic class GrassHopperTest {\n    @Test\n    public void test1() {\n        assertEquals('A', GrassHopper.getGrade(95,90,93));\n        assertEquals('A', GrassHopper.getGrade(100,85,96));\n        assertEquals('A', GrassHopper.getGrade(92,93,94));\n        assertEquals('A', GrassHopper.getGrade(100,100,100));\n    }\n    @Test\n    public void test2() {\n        assertEquals('B', GrassHopper.getGrade(70,70,100));\n        assertEquals('B', GrassHopper.getGrade(82,85,87));\n        assertEquals('B', GrassHopper.getGrade(84,79,85));\n    }\n    @Test\n    public void test3() {\n        assertEquals('C', GrassHopper.getGrade(70,70,70));\n        assertEquals('C', GrassHopper.getGrade(75,70,79));\n        assertEquals('C', GrassHopper.getGrade(60,82,76));\n    }\n    @Test\n    public void test4() {\n        assertEquals('D', GrassHopper.getGrade(65,70,59));\n        assertEquals('D', GrassHopper.getGrade(66,62,68));\n        assertEquals('D', GrassHopper.getGrade(58,62,70));\n    }\n    @Test\n    public void test5() {\n        assertEquals('F', GrassHopper.getGrade(44,55,52));\n        assertEquals('F', GrassHopper.getGrade(48,55,52));\n        assertEquals('F', GrassHopper.getGrade(58,59,60));\n        assertEquals('F', GrassHopper.getGrade(0,0,0));\n    }\n}",
+  "workingCode" : null,
+  "workingFixture" : null,
+  "recentlyAttempted" : null,
+  "activeVersion" : "17",
+  "languageVersions" : [ {
+    "id" : "1.8.x",
+    "label" : "8",
+    "supported" : true
+  }, {
+    "id" : "11",
+    "label" : "11",
+    "supported" : true
+  }, {
+    "id" : "17",
+    "label" : "17",
+    "supported" : true
+  } ],
+  "testFramework" : "junit",
+  "path" : "/projects/66ae31e97013b0409bfafb9e/",
+  "fixture" : "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\n--Y2STtirl09x+X2kMW+rwyA==--u",
+  "package" : ""
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "583710ccaa6717322c000105",
+  "name" : "Simple multiplication",
+  "slug" : "simple-multiplication",
+  "url" : "https://www.codewars.com/kata/583710ccaa6717322c000105",
+  "category" : "reference",
+  "languages" : [ "javascript", "swift", "csharp", "julia", "groovy", "c", "java", "crystal", "cpp", "haskell", "python", "ruby", "r", "php", "coffeescript", "kotlin", "nasm", "scala", "racket", "typescript", "cobol", "lua", "rust", "sql", "dart" ],
+  "path" : "/projects/66abbada62be31c426489169/",
+  "selectedLanguage" : "java",
+  "description" : "This kata is about multiplying a given number by eight if it is an even number and by nine otherwise.",
+  "rank" : {
+    "id" : -8,
+    "name" : "8 kyu",
+    "color" : "white"
+  },
+  "tags" : [ "Fundamentals" ],
+  "workUrl" : "https://www.codewars.com/kata/583710ccaa6717322c000105/train/java",
+  "completed" : false
+}

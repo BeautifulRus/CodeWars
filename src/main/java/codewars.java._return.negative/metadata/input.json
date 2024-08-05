@@ -1,0 +1,30 @@
+{
+  "success" : true,
+  "languageName" : "java",
+  "label" : "Java",
+  "solutionId" : "66abbf150bfea04940e06a72",
+  "icon" : "java",
+  "setup" : "public class Kata {\n\n  public static int makeNegative(final int x) {\n    \n    return 0; // Your code here.\n    \n  }\n  \n}",
+  "exampleFixture" : "import org.junit.Test;\nimport static org.junit.Assert.assertEquals;\n\npublic class MakeNegativeTest {\n\n  @Test\n  public void test1() {\n    assertEquals(-42, Kata.makeNegative(42));\n  }\n}",
+  "workingCode" : null,
+  "workingFixture" : null,
+  "recentlyAttempted" : null,
+  "activeVersion" : "17",
+  "languageVersions" : [ {
+    "id" : "1.8.x",
+    "label" : "8",
+    "supported" : true
+  }, {
+    "id" : "11",
+    "label" : "11",
+    "supported" : true
+  }, {
+    "id" : "17",
+    "label" : "17",
+    "supported" : true
+  } ],
+  "testFramework" : "junit",
+  "path" : "/projects/66abbf14c8bba92eb2515e35/",
+  "fixture" : "kAoKQADTajEBOJveuVDrEoVrHu/BnlVch8DueIuhEAUuut9gQTTqvc0NCN9l\nlWECSP5uA5HvuxgzjkeGwOJAvlZy3qriHziojra3lCftSs3twaxq65d2XCgC\n3qy5E0QxSBk5NFcMIVlppCP+ejPURKA+rlIqf69wbT0ACdyidnB8cA2zmdUJ\n0prVFwSM2ihTVVgEVpChqVt1hi9N2dXTkEota8g2fslGuZb4guK32X7IkgHT\nxFKzmgwvkkSFi0kI1xdgyvyS9LS5uYOTwp4Vl6zOASq7+T7eLMZtxiaEbK04\ncLJlmrrIGicFR2pSAOOZzFDRF/VPYxKzqAq//DeHHoEr5rpo/MKMRnFR9d+K\n7KBSkaAukqdoyz/Kg+cP57cqDa/YNNKTog3rb0PBSQvzy2umEQ4EKfToJJFd\n9f9iHK80oqF4Kw/EEvPCqbDQrRH0x/CwIk3G9RR2bM9vC4ByPl44dP+IdmdM\nc9AumFV4Nq2NpEsLpo877VwGXBM2Vdo8MwLo/ZLwRcC77K8jUV7igDKQpZPO\nkDAJsG9EfBn2AT5Pa56tNn/wHWhkStqQt6puTVHdv9lbKlZo93Fm+JoP+1vg\n8mAXaIrJHXAMHm3qofmX4xvkGUWtcxItEQUsdNjPEAqjY6o44091ldH8TvQG\njcpw5T87SKUQ8FMwmDJC63mqgV+ojKN1Txzytk1b8YYsHRmJLVMRrWqmnX9q\n7tfDS3pfwyjdFzHSciIblJRP1RSXlgQNA2qlxusY9dVljHDlV+t3BEkPC8z4\n6/QGglENOgaDzEB/0n0B5XtwlvVflye78XvhjUHuPMdE1s2UeZzwPDmambSb\no+/lUnPwUd9LNTkY/ZglUxthIJfHNfFatS7FpdpHnOCDr2s9yIp4ucqSXlxq\ni2Z4lRmZNUQvluAE6pwdKvKvDFoEgGJZdpFUZtC0v1Vy0sl8VrClkO3IZluD\n/HWDoT4Mx9WNM/Sm1vpNuSJcsvS2ZBm83HhVBjKKE2MGPcZSQ744CcLGMPGz\nSZCl0bm0kDyX5W6+n+8W9BHFgUGT0yBIVa9RXpnGRHhrF66FP8FbbrkFeiGU\nNePHwlfX0cq0h16mIfApQ4CzCOwxEZ8UAbQrVXGo2qGPyNiRwarO6Ai2t6MP\nNH563uW5oYjjjFyB0Wdfr5QRd/HKXR7l7S/8ROnltpjaIUV7S1if9vmCsjDg\nACNmg+6388HQ50ZCHDf4F1SK9P15c1kjkvbqyfVVq7PUpEcW9bLadesrdjWF\nWRh96J5YHSfA4TihgsxNKrZjeL2eoziNo/XrZzihjVXGdvnrsfpdxm+BgYj5\noCoJwh4hMlCULuZD997c5KlcWzZxJVhm++Ij7BzQ6yGV4LezR/QfUqzW273B\nd/l73FvDfJiAG7K/uaTKSVdbuXWmMS+qyuK3ZOa3S1JT6mKUDgd04c7mv0Bk\n3+ol0/wLDUa30IqG9N9DAMfRrAxylccnoKwBPQLWBi4STW/Vtaw/rA==\n--f/DzfYeHAZ5u0PTjPniz5w==--u",
+  "package" : ""
+}
