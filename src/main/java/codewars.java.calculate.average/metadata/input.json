@@ -1,0 +1,30 @@
+{
+  "success" : true,
+  "languageName" : "java",
+  "label" : "Java",
+  "solutionId" : "66b26fe253f412483d46a96a",
+  "icon" : "java",
+  "setup" : "public class Kata{\n  public static double find_average(int[] array){\n    \n  }\n}",
+  "exampleFixture" : "import org.junit.Test;\nimport static org.junit.Assert.assertEquals;\nimport org.junit.runners.JUnit4;\n\npublic class SolutionTest {\n\n    private static final double DELTA = 1e-15;\n\n    @Test\n    public void testSomething() {\n        assertEquals(1, Kata.find_average(new int[]{1,1,1}), DELTA);\n        assertEquals(2, Kata.find_average(new int[]{1, 2, 3}), DELTA);\n    }\n}",
+  "workingCode" : null,
+  "workingFixture" : null,
+  "recentlyAttempted" : null,
+  "activeVersion" : "17",
+  "languageVersions" : [ {
+    "id" : "1.8.x",
+    "label" : "8",
+    "supported" : true
+  }, {
+    "id" : "11",
+    "label" : "11",
+    "supported" : true
+  }, {
+    "id" : "17",
+    "label" : "17",
+    "supported" : true
+  } ],
+  "testFramework" : "junit",
+  "path" : "/projects/66b26fe12fdad6f1bc46aab4/",
+  "fixture" : "z93Z/XFX6ysAX+CJgmFDoJLjLJbTf/YvnN8G8SvMq5cAYB639LxL8dcWlLbA\n/dVyxGOE92RFpEER7rzLfYNvZSCKnHsSMb29ercKUH2skQ+DgM8J1KC+Zt7y\nlky0gIeLOpCjc3Avrh1wXRk+J9Hc+VSfA+2edJhZ4iPY0t0PdDDVj7nRhb/Y\nnJrDZqU4xLPk1hJmrBWrDRGAw+iXRTAcheyNC/uXLXRvberOkpBsMdoDdg4Y\n1WkdwY4Ge5C//bJquB4SQhpq0SR8l9jz4ayarvFwB/DhrQ6t2pslPJRyxdIU\nNGnrfoQMh77vM6PPwUbcaANDSRGWulEkjypbteqQVdrJ7JShK+ueXeFg1Zdp\nW1PATAhJyEXDYlbC7Rn60gNVg7nNap9YsNPzfdpEHTzKekbLuHHeNyAL+Xpp\nwHeZFitWr7oIUbkoVNlGJ7mtg+ERNF4BOfNNg/FkFuOz7pkRgBq39K41fsVD\nFy3VVu3L034Ipexma50N9J/++RM7L7Vp5iHBUnzEI1LR08A8XxKWZasiC4cw\ngpbIMY6xnT8zSdTUj7+gpLkk4R6PFCyk+BnE2KnkaERyrEM89M3YebSZCPHx\n08Iiwv0mBHPOueLHnhfQosQenOlSD2phde+/71o0bonhGNExb2TkBXTDHk2y\nl0znVb1ABz22lC+r7sG0MujC3fBSx7+GxC/9LXaACHC5cuemvOPBMPRZY6Ca\nob9SwZZiGZ4LElM8CF4aCSMeBL3JKIAIB+gRGPcg/uYU+dsZp0t7ZrnEmKue\nO56hiovafYrv4AUuUnPIG5VwxV1oKRr8COGcuOFbdpipRPSIVahJkKqev5WA\npsbrU5vvmrgXPQfM2OH6/kVb7pLfrEphu/pFD6F5U3a2792ggaGw5PGu9fX3\nVTVznRUuNTehljuykGQV5rxYN9iLq/eNRAdafGGrJE4rA3at50hHumyeI596\nlIltHYTQB/9WVQ2jK/sT5a7YW81nTsQ/YanSAmVE8HmyK+UaYuMH1dkU0VM1\n7ddDeP6odeQbmtlFJRloJ0l73MOrdvx3lfh7a2gAjEWoJvkAYSOltHXDlHzj\niYAvqdygkL5SDBiWLaNqtVXdu46kUQgbvyBz3h/nZWjrsX0kMrtzPOBJ7Y5D\nyT2N189kvNuapv3vBsPwCHxm083cYfJS7dPjTh8F9NhlC+BW68quXQS+wZPi\nEfvVD4Lq7OOim5mOWFTUZT2PUOictvlRl9Y7oNNeJ8FW3Y0Xyady8uHiufwb\nA9QysjD+wYB1dvDgxFz0FhhYhq9nN/QSmbqka35QYo4w5qxHJfn9n+akZ5rR\n/W5nOdyoBmfVKBzRx5azF3kd8FcnUX9JdUZkxPlmCmNiemARUK7UKduwrMnc\n9Vkwe/OJ3CJ2OL1+/hp4WWHJdXM2ooU3GCXwMjKx7hzSvX4QOJSwWwYtJFot\nm8SRVxQurh7QjOcr+gxJqK2aCK9jPCL8ZdahHzMwX498Xj3YLJ/nbYTfaRe5\n/EXWixtQbGX5d7P7pZn3AR5VqPkFntcRObJD1XwXjC4EC88XDGvIGXjNluh+\n8imUDzn2FIdMoc7+O8+HhP1F001I7W1OHSJ6rfVf\n--nzp0Y/SDGOXVwQ3XlJhi7A==--u",
+  "package" : ""
+}

@@ -1,0 +1,30 @@
+{
+  "success" : true,
+  "languageName" : "java",
+  "label" : "Java",
+  "solutionId" : "66b4d43df53d92bb27895da0",
+  "icon" : "java",
+  "setup" : "public class Kata {\n  public static int[] invert(int[] array) {\n    return new int[]{};\n  }\n}",
+  "exampleFixture" : "import java.util.*;\nimport org.junit.jupiter.api.*;\nimport static org.junit.jupiter.api.Assertions.assertArrayEquals;\n\n@DisplayName(\"Tests\")\nclass KataTests {\n  private void runTest(int[] expected, int[] input) {\n    assertArrayEquals(expected, Kata.invert(input), () -> String.format(\"Input: %s\", Arrays.toString(input)));\n  }\n\n  @Test\n  @DisplayName(\"Sample Tests\")\n  void sampleTests() {\n    runTest(new int[]{-1, -2, -3, -4, -5}, new int[]{1, 2, 3, 4, 5});\n    runTest(new int[]{-1, 2, -3, 4, -5}, new int[]{1, -2, 3, -4, 5});\n    runTest(new int[]{1, 2, 3, 4, 5}, new int[]{-1, -2, -3, -4, -5});\n    runTest(new int[]{}, new int[]{});\n    runTest(new int[]{0}, new int[]{0});\n  }\n}",
+  "workingCode" : null,
+  "workingFixture" : null,
+  "recentlyAttempted" : null,
+  "activeVersion" : "17",
+  "languageVersions" : [ {
+    "id" : "1.8.x",
+    "label" : "8",
+    "supported" : true
+  }, {
+    "id" : "11",
+    "label" : "11",
+    "supported" : true
+  }, {
+    "id" : "17",
+    "label" : "17",
+    "supported" : true
+  } ],
+  "testFramework" : "junit",
+  "path" : "/projects/66b4d43c3fd460cfdcb22ad2/",
+  "fixture" : "8kpqEAO1hO6SWNSMBBTOh8ZgEZPAQlaZZAcOVfW0kaxHNOEnLqK+A4e0/gWN\n7Ke6057nt/4BxEiPagp7H5DbLAPmtiqulCxv28z6zw2ugBeO9jM1nhAymZmF\n1qBDvBvaoWTEThY8uceY6qg+taNbb4Bpy0/zm0ELs3eVKUqnQaY8i7yJS2q/\nDlEnWkjZLe98fSz7q03AeUN0L3nvI+MgVq6WFNzgEGI9Ktu0GO6pEub3TqLP\nVlTHkdK5Sa3E/Aa21yGhlaLxKWkwiQcDWEC/ejh+Z5Hcpftbx/HtNc9gEGLz\nOxRc617pr2wtitO7/EvvTOhgGUT2Cnn4su4SGcjTXZWQt9FbTk7kQoDMPv0B\na+95RCgONsp9r/7e95lP5PvJRs7inFrkKU7v3kSlW1WvodbsBe7LsBIYASI0\n3XL5VkCFi+i+ZRXg4ArHjrTiyyg8EG0NI+kpP7S8pULTOsTzRbc+bVglX5D6\nQ8Jl7Ro3QknzURJLz5rYfrQCarB4qFAwbd2nM6eTADyJ0vskYnyAw9QNYRgV\nRoTyZrXmQbZm0EiYHjIjZS92KIrY53quIYawkB89sqo728QSqyNE313VYahf\nkJrlnq2O0t5FRAqEl8tM/iwFv/dDdRFd+lm4pbpscEXhvZxisocr328doAid\nmNogS2um4XjkUuZwUiId8GDBBwn8fL30NvpwlDd1RloKy8GnaJrn/1aKkczj\nauZCWmsODAzZ2V2WGbuH+5nO7rJSOap1qunDrPCF4pLs2USkrDZ3cd91nPVJ\nU/PJM1DOYe/OMPsou/T+93K1WjVZxbbjGAjfDegzVvMkilLZJ88+D3w+qHgv\nzmTD2woarM4z+e6ywzHssudCXkwNPyeb13vkbwFVAZLhflRNGgsl8tDwdkdH\nKzmtZUGgoqM0DYKy4LiS+8c+djWJb8VoexnVbAkPU1nVkEfUamhUYMJN55VQ\nwqfoM9zhtGWUR2m9oK/1bn+lTuwyHH/Di0lxJOpGnCcP+ye+20xqn4JbSsVO\n5H7YEF/CXK84WFUDIgWk5fCt28WxKZsxdO2q8qEqs2fjEuYQJqytfg8NRTRb\nkYICraS2reni3U2KntjJFihjaKw7kmwlcZ4zSrlu+cqT0BaGtkEmfflLsw+T\nlWbbn+BNRYWJ/ZOhKlat0V75O1pq31ow5rWgn6YSmf5fdENeiEoKVZk6saqL\nJzIG6XySMLsjcYXIfmAflmUcZDHqj1JfzzydCVOcyN05DkJxaji1n0oT6IRv\nShDa6m5RYlPpEj3pFy46oKfS7hgcnIpRqiLOniZNjeri2WBqwmODE4bK9SP8\n7ZaeefxPZ2hAy04ZTu7gFwpFhVJYrUfRTy/sGTp/B9REeJ7WCy2Oy2YsWFsE\nQJ4jKduqh0KNTvIefP0ytkV/plbn\n--RdrC8XgDXHBul5yI3vNPuA==--u",
+  "package" : ""
+}

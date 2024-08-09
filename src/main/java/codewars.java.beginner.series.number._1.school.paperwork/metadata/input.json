@@ -1,0 +1,30 @@
+{
+  "success" : true,
+  "languageName" : "java",
+  "label" : "Java",
+  "solutionId" : "66b4cb9e6972e4f9984cd392",
+  "icon" : "java",
+  "setup" : "public class Paper\n{\n  public static int paperWork(int n, int m) \n  {\n    //Happy Coding! ^_^\n  }\n}",
+  "exampleFixture" : "import org.junit.Test;\nimport static org.junit.Assert.assertEquals;\nimport org.junit.runners.JUnit4;\n\npublic class PaperTests {\n\n    @Test\n    public void test1(){\n         assertEquals(\"Failed at paperWork(5,5)\",25, Paper.paperWork(5,5));\n    }\n  \n    @Test\n    public void test2(){\n        assertEquals(\"Failed at paperWork(5,-5)\",0, Paper.paperWork(5,-5));\n    }\n    \n    @Test\n    public void test3(){\n        assertEquals(\"Failed at paperWork(-5,-5)\",0, Paper.paperWork(-5,-5));\n    }\n    \n    @Test\n    public void test4(){\n        assertEquals(\"Failed at paperWork(-5,5)\",0, Paper.paperWork(-5,5));\n    }\n    \n    @Test\n    public void test5(){\n        assertEquals(\"Failed at paperWork(5,0)\",0, Paper.paperWork(5,0));\n    }\n}",
+  "workingCode" : null,
+  "workingFixture" : null,
+  "recentlyAttempted" : null,
+  "activeVersion" : "17",
+  "languageVersions" : [ {
+    "id" : "1.8.x",
+    "label" : "8",
+    "supported" : true
+  }, {
+    "id" : "11",
+    "label" : "11",
+    "supported" : true
+  }, {
+    "id" : "17",
+    "label" : "17",
+    "supported" : true
+  } ],
+  "testFramework" : "junit",
+  "path" : "/projects/66b4cb9d21c9bc07783a56ea/",
+  "fixture" : "tnpK+HdgGNc/AKUtebzDoWNw2bSjgRYOOLa8NoEUG9cTYPbEc0PATYQWGlih\n/EM3v29Gzt3kJBQyZVOCwVbt9TgMJYi7aKUtYzSk5vHZQyibVR6vHjrmcKHS\n5PlwrEvquuqiCEty6xn9ZAtjBrYGMZlOchemKvIQFYS1hYA7JZUUtu9ywu4b\n8quFvZmJXFlNp7LUlu+U0+DniAlGQnAU7DRNYkSX/88nCOFXQRjqX17W0sRT\nK9VEot4UvV7iU32u1mFvpr8eZy8aOfME29ID1oKyDkRdVGGp/PxdFTS7+wTF\nO5Yz9T3AgnimLK79ja1vVBz8YuOD9Av6tncv9H0zEFozSgGHgCzeb+bmCBz+\nKHJ4fHoCkfCH+wE2X4KEPphZqlfiuxCYeqy2dlwijuUqZ6IVRqRp9RC1vPH+\nw2JjbxdPrCJUazYyq9062c8dpy8xfQ/BmDzXaIYcboqPCTIxp0LYsRmgeZJ+\nz2Ykgo64vAkuGULbCpBuw+Zf76U8uEBzqSD5uHL1WX+EZpVGhtUdZU+kWUrw\n9WN3E5mDCYs8npBEpK490eF/LoFThBL6nESDdtwt9T74zk2XSUfIcNjzOwnf\nlJZFg7sNIRscCU2A3LuwzmM1zrJ4KgVvX/MO2fozaNpcFJJsg8j6Hf6gW/6Z\nUnv8q7SMw6wPBJLPvVpLHE2eFhEiyj+GwoWFn8f1WwwsJ9D3iwGah/dYRFbn\nTm2igNhE/gRj6Ix6lWNU3VQ3ARIl3kbPNsRoOb/sMpxYCFfEeW0qIec1gRxm\nvnFMuuGQTTxs50dLLm5l8k17ugsKrgAeSVgUTKTmHoBdSci0nm/SLvv48jD4\n6545s0sJMfnQ9JdEczSq1FbqFW52Yqk2N3IVIaJca4/06Pb4YSb8Zl9mB3uO\n2Cx3PvhkDdEK0TvddeLLDIotSb+cqA7rATSQ22z0d9W4qkksecsFoO28Qpx8\nlLS3JE51Jb3DMG/dsn3pAhUkHNEScNeXzAyBYXslZJrlLYr6DRWYPPaQXkj1\nXurE7wJuzfnYhZpykoXIq+MsTboJYO4eWx40r2P6h3szgjkc2R3Ml0xdfV6F\nsNZNv4BnG2O7C3aF+w3twqDcc90+/ahGFy69ZNU5XxlvAagt0bSIWkF0kcKx\nX5j9m5Amtv5pVa2PqWFAVpID3Z2X5oSrBO7apou13zilc1lPClDfkj82UgX9\nlPRcOftJ6S/x0ZKOwOC6nubAHkdI+NldnzWla83eEihTNlsire+fC/FhgTV3\nn+RAS2NGquibI926gHO+f7Rez6g5ycdSv38ln0/rEweb9zZ8CO6RMGoBFN+2\nSMaMzzOUmz6wI+HPup9NZcgs2YWC59TasYiFSVVUHgxRuq70Rr9F3M6eGGce\nai66xRNtuzJKj2jMUNTwPIvmW4v+P3FY+pyV7wY6VYZl7hR0wqkXg8gclJdX\n1syUOPf1FNawFX/ArapZLK20qdQvMkiD5V8MbiQExp6Ms1O0VGYWBfuMOwDJ\njvJbAkmmKXN2mhfuHZhcD1ASIT3zscjjAVmFzvEKk2bAcHv9xNR+s5CSYw8I\nREtJWvoz1YDlKezDlDxhIQDsywMXBMww/ipw4PSMYGivzLmwgYm+fGGlliNs\nm1SyWfWIVmTXZkd69d+Cwlk=\n--dCL6PYhOnkzDFMR8Uo69fg==--u",
+  "package" : ""
+}
